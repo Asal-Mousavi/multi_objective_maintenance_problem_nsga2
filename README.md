@@ -1,6 +1,9 @@
 # Multi-Objective Maintenance Scheduling Optimization
 
 This project implements a multi-objective optimization model using evolutionary algorithms to schedule maintenance of power generation units over multiple time intervals. The goal is to **maximize system reserve margins** while **minimizing total maintenance costs**, subject to operational and budgetary constraints.
+>🗓️ Created: March 2025 | 🎓 6th Semester, "My Genesis in AI: Optimizing Energy Maintenance with Genetic Algorithms"
+
+---
 
 ## Key Features
 
